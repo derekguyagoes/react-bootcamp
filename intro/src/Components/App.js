@@ -8,7 +8,7 @@ import {
   Link,
 } from 'react-router-dom'
 
-https://youtu.be/alZur1g2Cnw?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo&t=3845
+
 
 class App extends Component {
   render() {
